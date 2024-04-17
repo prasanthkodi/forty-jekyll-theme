@@ -1,17 +1,17 @@
 # site settings
-title: Forty
+title: Portfolio
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+email: ymdprasanth@gmail.com
+description: Charting my career into a future in Data Science.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: linkedin.com/in/prasanthreddykodi6 # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 950 Main St
+city: Worcester
+state: MA
+zip_code: 01610
 country: United States of America
-phone: (716) 555-5555
+phone: (508) 304 4446
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
